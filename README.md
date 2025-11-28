@@ -2,11 +2,10 @@
 
 <p>Hi I'm Courtney, a Uni Student in England.</p>
 <div>I create anything that comes to my mind.</div>
-<div>My main focus is for my Uni work, however I love to make many little thind on the side.</div>
+<div>My main focus is for my Uni work, however I love to make many little things on the side.</div>
 <div>Programming languages that i know are Python, JavaSript and C++.</div>
 <div>I use Vscode and Arduino </div>
 
-<div>Planning to many projects in the future.</div>
 <strong>Fun Facts:</strong>
 <ul>
 <li>I have 2 cats</li>
