@@ -6,8 +6,8 @@ My main focus is for my Uni work, however I love to make many little thind on th
 I use Python, JavaSript ,HTML, CSS and C++.
 
 Planning to many projects in the future.
-
-<u><h2>Fun Facts:</h2></u>
+<u></u>
+<h4>Fun Facts:</h4>
 <ul>
 <li>I have 2 cats</li>
 <li>Blue Exorcist is my fav anime</li>
