@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-Hi I'm Courtney, a Uni Student in England.
-I create anything that comes to my mind.
-My main focus is for my Uni work, however I love to make many little thind on the side.
-I use Python, JavaSript ,HTML, CSS and C++.
+<p>Hi I'm Courtney, a Uni Student in England.</p>
+<p>I create anything that comes to my mind.</p>
+<p>My main focus is for my Uni work, however I love to make many little thind on the side.</p>
+<p>I use Python, JavaSript ,HTML, CSS and C++.</p>
 
 Planning to many projects in the future.
-<h4>Fun Facts:</h4>
+<strong>Fun Facts:</strong>
 <ul>
 <li>I have 2 cats</li>
 <li>Blue Exorcist is my fav anime</li>
-<li>I love the colour purple</li>
+<li>I love the colour <em style="color:purple">purple</em></li>
 <li>My hobbies are: reading, gaming and drawing</li>
 </ul>
 
