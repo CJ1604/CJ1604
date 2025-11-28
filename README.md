@@ -3,7 +3,8 @@
 <p>Hi I'm Courtney, a Uni Student in England.</p>
 <p>I create anything that comes to my mind.</p>
 <p>My main focus is for my Uni work, however I love to make many little thind on the side.</p>
-<p>I use Python, JavaSript ,HTML, CSS and C++.</p>
+<p>Programming languages that i know are Python, JavaSript and C++.</p>
+<div>I use Vscode and Arduino </div>
 
 Planning to many projects in the future.
 <strong>Fun Facts:</strong>
