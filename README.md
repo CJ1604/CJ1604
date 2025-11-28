@@ -10,7 +10,7 @@ Planning to many projects in the future.
 <ul>
 <li>I have 2 cats</li>
 <li>Blue Exorcist is my fav anime</li>
-<li>I love the colour <em style="color:purple;">purple</em></li>
+<li>I love the colour purple purple_heart</li>
 <li>My hobbies are: reading, gaming and drawing</li>
 </ul>
 
