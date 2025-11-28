@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-<p>Hi I'm Courtney, a Uni Student in England.</p>
+<p>Hi I'm Courtney, a Uni Student in England.
 <div>I create anything that comes to my mind.</div>
 <div>My main focus is for my Uni work, however I love to make many little things on the side.</div>
 <div>Programming languages that i know are Python, JavaSript and C++.</div>
-<div>I use Vscode and Arduino. </div>
-<div></div>
+<div>I use Vscode and Arduino. </div></p>
+
 
 <strong>Fun Facts:</strong>
 <ul>
